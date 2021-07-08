@@ -18,3 +18,102 @@ h1{
     padding-right: 6%;
     margin-top: 100px;
 }
+.half-width2{
+    width: 50%;
+    padding-right: 6%;
+    margin-top: 100px;
+}
+.order-button{
+    text-decoration: none;
+  background-image: linear-gradient(to right,gold 0%, orange 100%);
+  color: white;
+  font-weight: 700;
+  padding: 10px 30px;
+  border-radius: 10px;
+}
+.half-width img{
+    width: 80%;
+}
+.flexible-container img{
+    margin-left: 100px;
+}
+.flexible-container{
+    display: flex;
+    margin-bottom: 200px;
+}
+.about-img{
+    width: 50%;
+}
+.about-imgage-text{
+    width: 50%;
+}
+.contact-button{
+    text-decoration: none;
+  background-image: linear-gradient(to right,gold 0%, orange 100%);
+  color: white;
+  font-weight: 600;
+  padding: 10px 30px;
+  border-radius: 10px;
+}
+.flex-background {
+    background-image: url(shapes/Frame\ 56.jpg);
+    background-repeat: no-repeat;
+    margin-top: 20px;
+  }
+.recipie-head{
+    text-align: center;
+    padding: 110px;
+}
+.recipie-item{
+    box-shadow: 10px 5px 30px gray;
+    width: 26.67%;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius: 10px;
+    padding: 20px;
+}
+.recipie-area{
+    background-image: url(shapes/Frame\ 56.jpg);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.flexible-container2{
+    display: flex;
+    margin-bottom: 110px;
+}
+.img-card{
+    height: 250px;
+    width: 100%;
+    padding-right: 50%;
+}
+.member-card{
+    height: 200px;
+    width: 200px;
+    padding-right: 50%;
+}
+input{
+    border-radius: 5px;
+}
+button{
+    text-decoration: none;
+    background-image: linear-gradient(to right, gold 0%, orange 100%);
+    color: white;
+    font-weight: 700;
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.stay-head{
+    text-align: center;
+}
+footer{
+    text-align: center;
+    color: white;
+    background-color: black;
+    padding: 60px;
+}
+footer p{
+    color: white;
+}
+.inp-submit{
+    position: center;
+}
